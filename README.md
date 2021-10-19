@@ -2,7 +2,7 @@
 Aprenda HTML5, CSS3 e SEO de forma simples, prática e objetiva desenvolvendo passo a 
 passo do zero até a hospedagem de um site moderno e reponsivo.
 ## Licença
-Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md para detalhes
+Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md para detalhes.
 ## Links  indicados
 ###  Planejamento
 [cetic](https://www.cetic.br/)
